@@ -21,9 +21,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Ketan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketanshelke97&show_icons=true&theme=tokyonight)
+![Ketan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketanshelke97&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanshelke97&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanshelke97&layout=compact)
 
 ---
 
