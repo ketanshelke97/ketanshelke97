@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 👋 I'm Ketan Shelke  
 
-<!--
-**ketanshelke97/ketanshelke97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Computer Engineering Student  
+💡 Interested in Machine Learning, Web Development & Quantum Computing  
+💻 Tech Stack: HTML | CSS | JavaScript | PHP | Python | C/C++ | Java  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Working On
+- Strengthening core Computer Engineering concepts  
+- Exploring Machine Learning & intelligent systems  
+- Building web-based projects  
+
+---
+
+### 🤝 Open to Collaborate On
+- Web Development Projects  
+- Machine Learning Applications  
+- Quantum Computing Research  
+
+---
+
+### 📊 GitHub Stats
+![Ketan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketanshelke97&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanshelke97&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: ketan.sureshshelke@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ketan-shelke-692773269  
+
+⚡ *Always learning. Always building.*
