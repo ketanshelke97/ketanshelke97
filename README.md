@@ -20,10 +20,19 @@
 
 ---
 
-### 📊 GitHub Stats
-![Ketan's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ketanshelke97&show_icons=true)
+### 🧠 Skills & Focus
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ketanshelke97&layout=compact)
+**Programming Languages:**  
+C, C++, Java, Python, JavaScript, PHP  
+
+**Web Technologies:**  
+HTML, CSS, JavaScript, PHP  
+
+**Current Focus Areas:**  
+- Machine Learning  
+- Web Development  
+- Data Structures & Algorithms  
+- Quantum Computing (Exploration)
 
 ---
 
