@@ -21,9 +21,7 @@
 
 ### 💻 Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -35,17 +33,17 @@
 
 ---
 
-### 🎯 Current Focus Areas
-- Machine Learning  
+### 🎯 Current Focus Areas 
 - Web Development  
-- Data Structures & Algorithms  
+- Data Structures & Algorithms
+- Machine Learning (Exploration)
 - Quantum Computing (Exploration)  
 
 ---
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketan-shelke-692773269)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketansureshshelke/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketan.sureshshelke@gmail.com)
 
 ⚡ *Always learning. Always building.*
