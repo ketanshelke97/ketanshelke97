@@ -6,16 +6,19 @@
 ---
 
 ### 🚀 What I’m Working On
-- Strengthening core Computer Engineering concepts  
-- Exploring Machine Learning & intelligent systems  
-- Building web-based projects  
+
+- Strengthening web development fundamentals through concept-driven implementation
+- Improving Data Structures & Algorithms for efficient problem-solving
+- Applying theoretical concepts by building structured academic and practical projects
+- Exploring Machine Learning and Quantum Computing at a foundational level  
 
 ---
 
 ### 🤝 Open to Collaborate On
-- Web Development Projects  
-- Machine Learning Applications  
-- Quantum Computing Research  
+
+- Hackathon-based projects with a focus on real-world problem solving
+- Full-stack web applications (frontend + backend integration)
+- Problem-solving and DSA practice in collaborative environments  
 
 ---
 
