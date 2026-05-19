@@ -48,5 +48,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketansureshshelke/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketan.sureshshelke@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readdotcv&logoColor=white)](Ketan_Resume1_Updated2.pdf)
 
 ⚡ *Always learning. Always building.*
