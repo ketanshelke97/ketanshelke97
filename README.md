@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ketan Shelke  
 
-🎓 2nd Year Computer Engineering Student  
-💡 Interested in Machine Learning, Web Development & Quantum Computing  
+🎓 3rd Year Computer Engineering Student  
+💡 Interested in Machine Learning, Web Development & Data Structures and Algorithms  
 
 ---
 
@@ -10,7 +10,7 @@
 - Strengthening web development fundamentals through concept-driven implementation
 - Improving Data Structures & Algorithms for efficient problem-solving
 - Applying theoretical concepts by building structured academic and practical projects
-- Exploring Machine Learning and Quantum Computing at a foundational level  
+- Exploring Machine Learning at a foundational level  
 
 ---
 
@@ -40,7 +40,7 @@
 - Web Development  
 - Data Structures & Algorithms
 - Machine Learning (Exploration)
-- Quantum Computing (Exploration)  
+- Cloud Computing (Exploration)  
 
 ---
 
