@@ -1,3 +1,5 @@
+<img align="right" src="koi/koi.gif" width="256" alt="Ketan's GitHub Koi">
+
 ## Hi there 👋 I'm Ketan Shelke  
 
 🎓 3rd Year Computer Engineering Student  
