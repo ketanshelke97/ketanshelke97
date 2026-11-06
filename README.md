@@ -1,4 +1,4 @@
-<img align="right" src="koi/koi.gif" width="384" alt="Ketan's GitHub Koi">
+<img align="right" src="koi/koi.gif" width="512" alt="Ketan's GitHub Koi">
 
 ## Hi there 👋 I'm Ketan Shelke  
 
